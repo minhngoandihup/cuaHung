@@ -1,0 +1,350 @@
+
+
+
+
+h1{
+    background-color: rgb(212, 212, 212);
+    height: 0.25px;
+    width: auto;
+}
+h2{
+    background-color: black;
+    height: 0.25px;
+    width: auto;
+}
+h3{
+    text-align: center;
+}
+.slide{
+    margin-top: -40px;
+    width: auto;
+    height: 778px;
+} 
+.column{
+    width: 50%;
+    float: left;
+}
+.san-pham{
+    border-radius: 10px;   
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+}
+.san-pham .ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: #7f7f7f;
+}
+.san-pham img{
+    max-width: 100%;
+}
+.san-pham .gia{
+    color: black;
+    font-size: larger;
+}
+.san-pham .gia del{
+    color: gray;
+}
+
+.boxcon2>a>img{
+    width: 100%;
+}
+.boxcon1{
+    height: 21px;
+    width: 260px;
+    padding: 5px;
+    margin-left: 355px;
+    margin-right: 355px;
+    position: relative;
+    left: 19%;
+    top: -80px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-variant: small-caps;
+}
+.box3{
+    height: 57px;
+    width: 350px;
+    border: 1px solid black;
+    position: relative;
+    left: 600px;
+    top: -135px;
+    background-color: whitesmoke;
+    text-align: center;
+    color: black;
+}
+.boxvideocon{
+    display: block;
+    margin: 0 auto;
+    width: 27rem;
+    padding: 5px;
+    background-color: white;
+    border: black;
+    text-align: center;
+    top: -199px;
+    color: black;
+    font-variant: small-caps;
+}
+.boxcon2{
+    text-align: center;
+}
+.boxkhoangtrang{
+    background-color: white;
+    height: 80px;
+}
+.boxxemthem{
+    text-align: center;
+    padding: 5px;
+    width: 17rem;
+    border: 0.800px solid rgb(182, 174, 174);
+    position: relative;
+    left: -138%;
+}
+.boxcha3{
+    background-color: white;
+    height: 1.5cm;
+    
+}
+.boxcon3{
+    text-align: center;
+}
+*{
+    margin: 0;
+}
+.boxmap{
+    float: left;
+}
+/*llllllllll*/
+
+
+
+.thedendau{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    left: 0;
+    right: 0;
+    display: flex;
+}
+.trai>p{
+    color: white;
+    margin-top: 8px;
+    margin-left: 60px;
+    font-size: 12px;
+    font-variant: small-caps;
+}
+.phai>a{
+    color: white;
+    margin-left: 650px;
+    text-decoration: none;
+    font-variant: small-caps;
+}
+.phai{
+    margin-top: 5px;
+    margin-right: 30px;
+    
+}
+.icon{
+    margin-top: 4px;
+    margin-right: 30px;
+}
+.icon>a>i{
+    font-size: 8px;
+}
+
+
+
+
+
+
+
+
+
+.livent{
+    width: 100%;
+    height: 50px;
+    padding-top: 13px;
+    background-color: #FFF;
+}
+
+
+
+
+
+
+
+.cuoi{
+    width: 100%;
+    height: 35px;
+    background-color: #fff;
+    padding-top: 15px;
+    
+}
+.cuoi>ul>li{
+    float: left;
+    list-style: none;
+}
+.cuoi>ul>li>a{
+    text-decoration: none;
+    margin-left: 90px;
+}
+.cuoi ul li a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cuoi ul li a:hover{
+    text-decoration: underline;
+}
+.cuoi li ul a{
+    line-height: 30px;
+    text-decoration: none;
+}
+.cuoi li ul li{
+    list-style: none;
+}
+.cuoi ul li:hover>ul{
+    display: block;
+}
+
+
+
+
+
+
+table{
+    border-collapse: collapse;
+}
+
+
+
+
+
+
+
+
+footer{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 50px 20px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+footer .container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+ footer .container .noi-dung{
+     margin-right: 30px;
+ }
+ footer  .container .noi-dung.about{
+    width: 20%;
+}
+footer .container .noi-dung.about h2{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+footer .container .noi-dung.about p{
+    color: black;
+    font-family: ;
+}
+
+
+
+.links h2{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 15px;
+    border-top: none;
+}
+.links{
+    position: relative;
+    width: 25%;
+ }
+
+
+
+
+
+ .mar h2{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+.sp h2{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.sp p:hover{
+    font-size: 15px;
+    font-weight: 1000;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+.morong h2{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.morong .info li{
+    display: flex;
+}
+.morong .info li a{
+    color: black;
+}
+.morong .info li a:hover{
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.social-icon{
+    margin-top: 20px;
+    display: flex;
+}
+.social-icon li a{
+    margin-right: 20px;
+}
+
+
+
+
+.button{
+    background-color: #47474C;
+    color: white;
+    height: 30px;
+    width: 150px;
+    border: #47474C;
+    font-variant: small-caps;
+}
+
+
+
